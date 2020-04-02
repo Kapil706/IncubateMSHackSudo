@@ -1,7 +1,7 @@
 # IncubateMSHackSudo
 
 [Link to PPT](https://github.com/sankalpchauhan-me/IncubateMSHackSudo/blob/master/SudoPPT.pptx)
-
+//this is not the final app
 For MS HACK Incubate Hackathon by team Sudo.
 A Campus Ambassodor Platform for IncubateIND
 IncubateIND
@@ -18,7 +18,7 @@ IncubateIND is India’s leading platform to create Hackathons and tech innovati
 
 Final State of the app (gif):-
 
- <p align="center">
+ <p align="center">//this is a paragraph
     <img src="assets/final.gif" alt="app"/> <br>
     </p>
 
